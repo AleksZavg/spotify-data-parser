@@ -31,6 +31,7 @@ def get_start_data():
     print("1) Output to the terminal")
     print("2) Save to file (result.txt)")
     save_method = int(input("You have chosen the method: "))
+    print()
 
     return (spotify_link, save_method)
 
