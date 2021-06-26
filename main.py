@@ -19,6 +19,8 @@ def manager():
         tracks_name, tracks_authors, preview_urls, tracks_urls = temp[0], temp[1], temp[2], temp[3]
 
         temp = save_data(save_method=save_method, tracks_name=tracks_name, tracks_authors=tracks_authors, preview_urls=preview_urls, tracks_urls=tracks_urls)
+        print()
+        print(temp)
 
 
 
