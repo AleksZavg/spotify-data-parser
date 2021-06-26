@@ -25,6 +25,9 @@ This script can parse data on the spotify link. This can help those who need to 
 + The script uses environment variables
 + To use this script, you need a `client id` and `client secret`. You can get them at this [link](https://developer.spotify.com/dashboard/applications). You need to create your own application and take these variables
 
+## Images
+*You can find all the images in the `for_readme` folder in the repository of this project*
+
 ## From the author
 Written in a hurry, mistakes are possible! During processing, lists with the received data appear, they can be taken from the class functions (this is if you will use these developments)
 
