@@ -16,13 +16,11 @@ This script can parse data on the spotify link. This can help those who need to 
 ## Example
 + Sample data you get
 ```
-
 Full name: Fashion Week - cry, Blackbear gg
 Name: Fashion Week
 Author: cry, Blackbear gg
 Preview: https://i.scdn.co/image/ab67616d0000b273d33e9719ece26fe8dfd477a1
 Track url: https://open.spotify.com/track/2lbv1Xcy06X4a0jRwlGgo1
-
 ```
 *You can find all the images in the `for_readme` folder in the repository of this project*
 ### Animated process
