@@ -22,25 +22,17 @@ Author: cry, Blackbear gg
 Preview: https://i.scdn.co/image/ab67616d0000b273d33e9719ece26fe8dfd477a1
 Track url: https://open.spotify.com/track/2lbv1Xcy06X4a0jRwlGgo1
 ```
-*You can find all the images in the `for_readme` folder in the repository of this project*
+*Track image in 640x640 resolution*
+
+*You can find more the images and gif in the `for_readme` folder in the repository*
 ### Animated process
-+ Playlist processing
-
 ![example](https://github.com/AleksZavg/spotify-data-parser/blob/main/for_readme/bandicam-2021-07-07-11-35-44-113.gif)
-
-+ Album processing
-
-![example3](https://github.com/AleksZavg/spotify-data-parser/blob/main/for_readme/bandicam-2021-07-07-11-46-49-793.gif)
-
-+ Track processing
-
-![exapmle1](https://github.com/AleksZavg/spotify-data-parser/blob/main/for_readme/bandicam-2021-07-07-11-38-41-939.gif)
 
 ## Installation
 + `git clone https://github.com/AleksZavg/spotify-data-parser`
 + `cd spotify-data-parser`
 + `pip install -r requirements.txt`
-+ Then open `.env` file and paste your `spotify client id` and `spotify client secret`
++ If you need to replace the [authorization-data](https://developer.spotify.com/dashboard/applications), then open .env and insert them! 
 + `python main.py`
 
 
