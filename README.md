@@ -4,13 +4,39 @@ Simple Spotify parser on spotify link
 **Distributed by MIT correspondence**
 ## Content
 - [Appointment](#Appointment)
+- [Example](#Example)
 - [Installation](#Installation)
 - [Technical information](#Technical-information)
 - [From the author](#From-the-author)
 
 
 ## Appointment
-This script can parse data on the spotify link. This can help those who need to copy the name of the song or the author in the application, but can't do it. You just need to put a link in the script and it will give a list of track data (in the terminal or in txt). It also gives a link to the image of the track (album) in high resolution, and a full https:/ / link to this track!
+This script can parse data on the spotify link. This can help those who need to copy the name of the song or the author in the application, but can't do it. You just need to put a link in the script and it will give a list of track data (in the terminal or in txt). It also gives a link to the image of the track (album) in high resolution, and a full `https://` link to this track!
+
+## Example
++ Sample data you get
+```
+
+Full name: Fashion Week - cry, Blackbear gg
+Name: Fashion Week
+Author: cry, Blackbear gg
+Preview: https://i.scdn.co/image/ab67616d0000b273d33e9719ece26fe8dfd477a1
+Track url: https://open.spotify.com/track/2lbv1Xcy06X4a0jRwlGgo1
+
+```
+*You can find all the images in the `for_readme` folder in the repository of this project*
+### Animated process
++ Playlist processing
+
+![example](https://github.com/AleksZavg/spotify-data-parser/blob/main/for_readme/bandicam-2021-07-07-11-35-44-113.gif)
+
++ Album processing
+
+![example3](https://github.com/AleksZavg/spotify-data-parser/blob/main/for_readme/bandicam-2021-07-07-11-46-49-793.gif)
+
++ Track processing
+
+![exapmle1](https://github.com/AleksZavg/spotify-data-parser/blob/main/for_readme/bandicam-2021-07-07-11-38-41-939.gif)
 
 ## Installation
 + `git clone https://github.com/AleksZavg/spotify-data-parser`
@@ -24,9 +50,6 @@ This script can parse data on the spotify link. This can help those who need to 
 + The `spotipy` library was used
 + The script uses environment variables
 + To use this script, you need a `client id` and `client secret`. You can get them at this [link](https://developer.spotify.com/dashboard/applications). You need to create your own application and take these variables
-
-## Images
-*You can find all the images in the `for_readme` folder in the repository of this project*
 
 ## From the author
 Written in a hurry, mistakes are possible! During processing, lists with the received data appear, they can be taken from the class functions (this is if you will use these developments)
