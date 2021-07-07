@@ -22,7 +22,7 @@ Author: cry, Blackbear gg
 Preview: https://i.scdn.co/image/ab67616d0000b273d33e9719ece26fe8dfd477a1
 Track url: https://open.spotify.com/track/2lbv1Xcy06X4a0jRwlGgo1
 ```
-*Track image in 640x640 resolution*
+*Track image (Preview) in 640x640 resolution*
 
 *You can find more the images and gif in the `for_readme` folder in the repository*
 ### Animated process
