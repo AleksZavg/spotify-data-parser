@@ -29,8 +29,8 @@ Track url: https://open.spotify.com/track/2lbv1Xcy06X4a0jRwlGgo1
 ![example](https://github.com/AleksZavg/spotify-data-parser/blob/main/for_readme/bandicam-2021-07-07-11-35-44-113.gif)
 
 ## Installation
-+ `git clone https://github.com/alekszavg/spotify-data-parser.git`
-+ `cd spotify-data-parser`
++ `git clone https://github.com/alekszavg/spotify-parser.git`
++ `cd spotify-parser`
 + `pip install -r requirements.txt`
 + Create `.env`
 + Then open `.env` file and paste your `spotify_client_id` and `spotify_client_secret` ([get-this-data](https://developer.spotify.com/dashboard/applications))
